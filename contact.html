@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Edulink - Contact</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body style="background-color: lightblue">
+ <header>
+  <h1 style="text-align: center;">Edulink</h1>
+  <nav>
+    <ul class="nav-links">
+      <li><a href="index.html" class="nav-button">Home</a></li>
+      <li><a href="about.html" class="nav-button">About</a></li>
+      <li><a href="contact.html" class="nav-button active">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+
+  <main>
+    <section>
+      <h2>Contact Us</h2>
+      <form id="contactForm" novalidate>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required />
+        <small class="error" id="nameError"></small>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required />
+        <small class="error" id="emailError"></small>
+
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" required></textarea>
+        <small class="error" id="messageError"></small>
+
+        <button type="submit">Send</button>
+      </form>
+      <div id="successMessage" class="success"></div>
+    </section>
+  </main>
+
+ <footer style="text-align: center; padding: 20px; background-color: #f0f0f0;">
+  <p>Contact us: +1 (555) 123-4567</p>
+  <p>
+    <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none; color: #E1306C; font-weight: bold;">Instagram</a> |
+    <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none; color: #3b5998; font-weight: bold;">Facebook</a> |
+    <a href="https://www.tiktok.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none; color: #000000; font-weight: bold;">TikTok</a>
+  </p>
+  <p>&copy; 2025 Edulink. All rights reserved.</p>
+</footer>
+
+
+  <script src="js/script.js"></script>
+</body>
+</html>
+
