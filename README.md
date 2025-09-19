@@ -1,90 +1,31 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# 🎓 Edulink - Multipage Educational Website 📚
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+## 🚀 Project Overview
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+Edulink is a responsive, multipage educational website designed to provide users with easy access to curated courses in **Information Technology**, **Agriculture**, and **Solar Energy**. This project demonstrates practical skills in **HTML5**, **CSS3**, **JavaScript**, and website deployment through an interactive and user-friendly platform.
 
----
-
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
-
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
+The website features three main pages:
+- 🏠 **Home:** Showcases featured courses with an interactive slider.
+- ℹ️ **About:** Details Edulink’s mission, vision, and impact.
+- ✉️ **Contact:** Allows users to get in touch through a contact form.
 
 ---
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+## ✨ Features
 
-Using your plan, begin building:
-
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
-
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+- 📱 **Responsive Design:** Adapts smoothly to different screen sizes and devices.
+- 🧩 **Semantic HTML5:** Utilizes meaningful tags for improved accessibility and SEO.
+- 🎨 **CSS3 Styling:** Custom styles for buttons, navigation, layout, and typography.
+- ⚙️ **JavaScript Interactivity:** Implements an image/text slider with navigation controls.
+- 🌐 **Multiple Environments:** Prepared for deployment using platforms such as GitHub Pages, Netlify, or Vercel.
+- 📲 **Social Media Integration:** Footer includes links to Instagram, Facebook, and TikTok.
+- 📞 **Contact Information:** Includes a sample contact number for user inquiries.
 
 ---
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+## 🛠️ Technologies Used
 
-Before deployment, refactor your project to follow production-friendly practices:
+- **HTML5:** Semantic structure and content layout.
+- **CSS3:** Styling and responsive design.
+- **JavaScript:** Slider functionality
 
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
-
----
-
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
-
----
-
-## Deliverables
-
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
-
----
-
-## Outcome
-
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
